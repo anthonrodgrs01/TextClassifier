@@ -1,0 +1,4 @@
+gdown==4.7.1
+google-api-python-client==2.86.0
+streamlit==1.22.0
+streamlit-lottie==0.0.3
